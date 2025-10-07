@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Aprender Javascript",
+    "descripcion": "Estudiar fundamentos y práctica diaria",
+    "estado": "PENDIENTE"
+  },
+  {
+    "nombre": "Aprender Música",
+    "descripcion": "Tomar clases de guitarra",
+    "estado": "COMPLETADA"
+  },
+  {
+    "nombre": "Estudiar Node.jss",
+    "descripcion": "Aprender Express y rutas",
+    "estado": "PENDIENTE"
+  }
+]
